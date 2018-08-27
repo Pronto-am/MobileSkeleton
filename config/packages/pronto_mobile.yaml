@@ -1,7 +1,0 @@
-pronto_mobile:
-    domain: 'pronto.am'
-    uploads_folder: 'uploads'
-
-    firebase:
-        storage_decryption_method: 'aes-256-cbc'
-        storage_decryption_password: 'thisshouldbechanged'
