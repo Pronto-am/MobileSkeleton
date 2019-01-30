@@ -1,0 +1,8 @@
+fos_oauth_server:
+    db_driver: orm
+    client_class:
+    access_token_class:
+    refresh_token_class:
+    auth_code_class:
+    service:
+        user_provider:
